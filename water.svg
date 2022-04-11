@@ -22,7 +22,7 @@
         Q   57.5    60    65    50
         Q   72.5    40    80    50
         Q   87.5    60    95    50"
-    st  ke="#74a8dd"
+    stroke="#74a8dd"
     fill="transparent"
     stroke-width="5"
     stroke-linecap="round"
